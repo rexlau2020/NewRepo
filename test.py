@@ -5,8 +5,8 @@ var3 = var4 * var2
 print(var4)
 print(var2)
 print(var3)
-print(testing)
+print(testingxxx)
 
-def testing(var1, var2):
+def testingxxx(var1, var2):
     pass
 
